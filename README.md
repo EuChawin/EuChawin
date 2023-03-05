@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am a student in Thailand, studying in grade 10. I've just started learning Python programming language.
+I am a student from Thailand, studying in grade 10. I've just started learning Python programming language.
 
 * 🌍  I'm based in Nakhon Ratchasima, Thailand
 * ✉️  You can contact me at [annonloumitzi@gmail.com](mailto:annonloumitzi@gmail.com)
